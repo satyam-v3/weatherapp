@@ -1,3 +1,6 @@
+// API KEY
+const API_KEY = '80d50a2f69f1ed8c4054e311614c93f4';
+
 // Element Selectors
 const userTab = document.querySelector("[data-UserWeather]");
 const searchTab = document.querySelector("[data-SearchWeather]");
